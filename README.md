@@ -19,9 +19,8 @@ Este proyecto fue desarrollado con el propósito de analizar los datos relaciona
 ### Librerías
 
 * `Pandas`
-* `numpy`
-* `matplotlib`
-* `Folium`
+* `Matplotlib`
+* `Seaborn `
 
 ### Notebook
 
