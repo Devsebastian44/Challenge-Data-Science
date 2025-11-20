@@ -20,7 +20,7 @@ Este proyecto fue desarrollado con el propósito de analizar los datos relaciona
 
 * `Pandas`
 * `Matplotlib`
-* `Seaborn `
+* `Seaborn`
 
 ### Notebook
 
