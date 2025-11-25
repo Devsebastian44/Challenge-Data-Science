@@ -73,10 +73,18 @@ Luego de realizar la extracción, preparación y análisis de la información co
 
 Tras evaluar detalladamente la situación de cada una de las tiendas, se observa que todas mantienen un rendimiento aceptable. Sin embargo, considerando que el Sr. Juan busca expandir su negocio mediante un nuevo emprendimiento y necesita vender una de las sucursales, se presentan las siguientes recomendaciones:
 
-**1.** Se recomienda vender la **Tienda 4**, ya que es la menos rentable en términos generales y aporta poco al crecimiento económico esperado.
+* Se recomienda vender la **Tienda 4**, ya que es la menos rentable en términos generales y aporta poco al crecimiento económico esperado.
 
-**2.** La **Tienda 2** es una excelente opción para invertir a largo plazo debido a su estabilidad y buen desempeño.
+* La **Tienda 2** es una excelente opción para invertir a largo plazo debido a su estabilidad y buen desempeño.
 
-**3.** Es conveniente analizar los factores que impulsan el éxito de la **Tienda 1** y evaluar la posibilidad de replicarlos en las demás sucursales.
+* Es conveniente analizar los factores que impulsan el éxito de la **Tienda 1** y evaluar la posibilidad de replicarlos en las demás sucursales.
 
-**4.** En la **Tienda 3**, es ideal potenciar la venta de sus productos destacados para incrementar los ingresos, manteniendo al mismo tiempo su alto nivel de satisfacción al cliente.
+* En la **Tienda 3**, es ideal potenciar la venta de sus productos destacados para incrementar los ingresos, manteniendo al mismo tiempo su alto nivel de satisfacción al cliente.
+
+---
+
+## 📄 Licencia
+
+El código fuente de este repositorio está licenciado bajo la MIT License. Consulta el archivo LICENSE para más detalles.
+
+La documentación y el contenido educativo (incluyendo este README) están licenciados bajo Creative Commons CC BY-NC-SA 4.0.
